@@ -1,0 +1,21 @@
+{
+  "version": "0.0.5",
+  "manifestVersion": "0.1.0",
+  "name": "theme-nicky-test01",
+  "description": "Deep-Purple KeeWeb theme for Nicky",
+  "author": {
+    "name": "Romber",
+    "email": "romberla@gmail.com",
+    "url": "https://romber.serv00.net/keeweb-theme/theme-nicky-test01/"
+  },
+  "resources": {
+    "css": "Zwjgb/Ybb54JUIMi2ypjUCLijWnNcahdatBUr1tXuOMRDcmzhCDadtw8YfMZOhYZKBa7kyoKfsSApNZuxAT4Yq22nR71BVeCObKc3nCg4Dn4GgxCPk/NrqJBH8UtfvNO5uqzH/78+rYz9eI1p/hOl7m1INucUUmux0ezFL/85O7bba3g/3uKzv8FOpLaaIqnQpoIR8LimslFi64NA7zXq6x/hU+vgGyqulpvyJk389nMqjM3p9s2zUeG6iTId/N2zcQ1dmdqPIG+TQpdBshr5uI/sTdrJMZdCoDv7UOahjApEpLdm3vwoGEmUb8cZdjrDgxd3l/MKchg84IazaeVDg=="
+  },
+  "license": "MIT",
+  "url": "https://romber.serv00.net/keeweb-theme/theme-nicky-test01/",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzc25mTSqGW6fSm++d/IE7v2V82taV/hHfcvoDTracSf7qqUJ8Lh90nHK5aikBhkZNs1wC2TjrREtg+TqqkB42Dn978OJkj7XwnTacJLxeq/vMP4C3b72dLcXccQhFhlUFynT3kUCqtJ/xQMYZjcGi3M6BDc2aHd2+7tXaw8wXzuxj5RXk6oCfv8bkXcIYlzukpiIPXJHvUb/HKyyAOgo6nh3DgUczUOssjn/T4Q1HegmWtZHLkgfkIkJNh5RPMi4kDCbmL78E0ZM1+23iXcEr/HphWL54p3LCSudqNN2JjN0fgLrU9DLE1HeSb61abxdfFSbSvOVonq80PwxCKrg4QIDAQAB",
+  "theme": {
+    "name": "nicky",
+    "title": "Theme-Nicky-Test01"
+  }
+}
